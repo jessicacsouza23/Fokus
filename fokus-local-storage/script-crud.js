@@ -78,8 +78,6 @@ function criarElementoTarefa(tarefa) {
             li.classList.add('app__section-task-list-item-active')
         }
     }
-
-
     return li
 }   
 
